@@ -1,0 +1,17 @@
+.buttons {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-evenly;
+}
+
+.results {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.choiceButton {
+    width: 5rem;
+    flex-wrap: wrap;
+}
